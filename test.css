@@ -1,0 +1,69 @@
+body{
+	background-image: url('purple_suede.jpg');
+
+}
+
+p {
+
+}
+
+h3{{ font-size: 40px; font-family: "Passion One"; color: #FFBC00; font-weight: bold; }
+
+}
+
+li{
+
+}
+
+#Header{
+	color: white; font-weight: bold; font-size: 24px;
+	width: 500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	
+
+}
+#Header h1{font-size: 60px; font-family: "Passion One"; color: #FFBC00; font-weight: bold; }
+
+}
+
+#LeftNav{
+	width: 400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	color: white; font-weight: bold; font-size: 24px;
+	float: left;
+
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav u1{
+
+}
+
+#LeftNav h3{{ font-size: 40px; font-family: "Passion One"; color: #FFBC00; font-weight: bold; }
+
+}
+
+#Content{
+	color: white; font-weight: bold; font-size: 24px;
+	width: 700px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	
+
+}
+
+#Footer{
+	border: solid 8px black;
+
+}
